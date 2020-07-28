@@ -4,11 +4,11 @@ Hope you guys enjoy and can use in the future for your own projects.
 
 Those analysis have been made by:
 
-Aline Riquetti
-Deivison Santos (me)
-Larissa Lima
-Lívia Moraes
-Mariana Fontanezi
-Victor Rodrigues
+Aline Riquetti,
+Deivison Santos (me),
+Larissa Lima,
+Lívia Moraes,
+Mariana Fontanezi,
+Victor Rodrigues.
 
 Sponsor: Rui Bueno
